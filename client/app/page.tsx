@@ -85,7 +85,7 @@ export default function Home() {
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/80 backdrop-blur-sm rounded-full shadow-lg mb-8 border border-indigo-100">
               <Sparkles size={16} className="text-indigo-600" />
               <span className="text-sm font-semibold text-gray-700">
-                #1 Job Platform of 2024
+                #1 Job Platform of 2025
               </span>
             </div>
 

@@ -160,7 +160,7 @@ function JobCard({ job, activeJob }: JobProps) {
           <div className="flex items-baseline gap-1">
             <span className="text-xl font-bold text-gray-900">
               {/* {formatMoney(salary, "GBP")} */}
-              £{salary.toLocaleString()}
+              {salary.toLocaleString()} Dt
             </span>
             <span className="text-sm font-medium text-gray-500">
               /
